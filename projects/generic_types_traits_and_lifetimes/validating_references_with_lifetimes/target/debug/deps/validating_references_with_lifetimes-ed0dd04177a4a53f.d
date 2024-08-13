@@ -1,0 +1,5 @@
+/Users/ibukunoluwaakintobi/Desktop/Defi Development/Rust-book/projects/generic_types_traits_and_lifetimes/validating_references_with_lifetimes/target/debug/deps/libvalidating_references_with_lifetimes-ed0dd04177a4a53f.rmeta: src/main.rs
+
+/Users/ibukunoluwaakintobi/Desktop/Defi Development/Rust-book/projects/generic_types_traits_and_lifetimes/validating_references_with_lifetimes/target/debug/deps/validating_references_with_lifetimes-ed0dd04177a4a53f.d: src/main.rs
+
+src/main.rs:
