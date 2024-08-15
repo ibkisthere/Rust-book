@@ -1,0 +1,1 @@
+/Users/ibukunoluwaakintobi/Desktop/Defi\ Development/Rust-book/projects/an_i_o_project_building_a_cli_program/minigrep/target/debug/libminigrep.rlib: /Users/ibukunoluwaakintobi/Desktop/Defi\ Development/Rust-book/projects/an_i_o_project_building_a_cli_program/minigrep/src/lib.rs
