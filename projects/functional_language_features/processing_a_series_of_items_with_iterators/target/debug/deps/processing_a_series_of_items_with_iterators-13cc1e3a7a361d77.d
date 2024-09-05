@@ -1,0 +1,5 @@
+/Users/ibukunoluwaakintobi/Desktop/Defi Development/Rust-book/projects/functional_language_features/processing_a_series_of_items_with_iterators/target/debug/deps/libprocessing_a_series_of_items_with_iterators-13cc1e3a7a361d77.rmeta: src/main.rs
+
+/Users/ibukunoluwaakintobi/Desktop/Defi Development/Rust-book/projects/functional_language_features/processing_a_series_of_items_with_iterators/target/debug/deps/processing_a_series_of_items_with_iterators-13cc1e3a7a361d77.d: src/main.rs
+
+src/main.rs:

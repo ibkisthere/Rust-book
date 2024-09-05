@@ -1,0 +1,5 @@
+/Users/ibukunoluwaakintobi/Desktop/Defi Development/Rust-book/projects/functional_language_features/closures_anonymous_fns_that_capture_their_environment/target/debug/deps/libclosures_anonymous_fns_that_capture_their_environment-f126581959c119a8.rmeta: src/main.rs
+
+/Users/ibukunoluwaakintobi/Desktop/Defi Development/Rust-book/projects/functional_language_features/closures_anonymous_fns_that_capture_their_environment/target/debug/deps/closures_anonymous_fns_that_capture_their_environment-f126581959c119a8.d: src/main.rs
+
+src/main.rs:
